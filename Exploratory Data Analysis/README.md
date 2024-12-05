@@ -1,3 +1,0 @@
-Role: Visualize and explore data to identify trends and patterns.
-What to do: Create scatter plots, histograms, box plots, and correlation heatmaps to examine relationships between variables. Look for missing values and outliers. Libraries like matplotlib and seaborn in Python or ggplot2 in R make it straightforward to create visuals.
-Output: Visualizations showing distribution and relationships (e.g., time of day vs. crash frequency).
